@@ -10,7 +10,7 @@ export function Footer() {
                 <Row className="gy-2">
                     <Col md={3}>
                         <div className="footer-brand mb-3">
-                            <a href="https://github.com/LondheShubham153/online_shop_hackathon" 
+                            <a href="https://github.com/devrajesh755/online_shopping_app.git" 
                                className="brand-link d-inline-flex align-items-center"
                             >
                                 <img src="/imgs/logo.svg" alt="Logo" width="30" height="30" className="me-2" />
@@ -76,15 +76,15 @@ export function Footer() {
                             </h5>
                             <div className="social-links-horizontal">
                                 <a 
-                                    href="https://github.com/LondheShubham153" 
+                                    href="https://github.com/devrajesh755" 
                                     target="_blank" 
-                                    rel="noopener noreferrer" 
+                                    rel="noopener noreferrer"
                                     className="social-link"
                                 >
                                     <FontAwesomeIcon icon={faGithub} />
                                 </a>
                                 <a 
-                                    href="https://linkedin.com/in/shubhamlondhe1996" 
+                                    href="www.linkedin.com/in/rajesh-manik-11476528a" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
@@ -123,7 +123,7 @@ export function Footer() {
                         All rights reserved.
                     </div>
                     <div className="mt-1">
-                    Driven for TrainWithShubham Community.
+                    Driven Tech Community
                     </div>
                 </div>
             </Container>
